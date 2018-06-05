@@ -2919,6 +2919,29 @@ body {
   padding-bottom: 30px;
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
+.cid-qTv2hrWEdR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qTv2hrWEdR [class^="socicon-"]:before,
+.cid-qTv2hrWEdR [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-qTv2hrWEdR .btn-social {
+  border-color: #149dcc;
+}
+.cid-qTv2hrWEdR .btn-social:hover {
+  background: #149dcc;
+}
+.cid-qTv2hrWEdR .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-qTv2hrWEdR .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-qTo6HspB8z {
   padding-top: 45px;
   padding-bottom: 75px;
